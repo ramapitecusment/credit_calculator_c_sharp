@@ -1,0 +1,29 @@
+D:\RAMIL\LAB1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\RAMIL\LAB1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\RAMIL\LAB1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\RAMIL\LAB1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\RAMIL\LAB1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\RAMIL\LAB1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\RAMIL\LAB1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\RAMIL\LAB1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\RAMIL\LAB1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\RAMIL\LAB1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Desktop\RAMIL\LAB1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Desktop\RAMIL\LAB1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Desktop\RAMIL\LAB1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Desktop\RAMIL\LAB1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Desktop\RAMIL\LAB1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Desktop\RAMIL\LAB1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Desktop\RAMIL\LAB1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Desktop\RAMIL\LAB1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Desktop\RAMIL\LAB1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Desktop\RAMIL\LAB1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Desktop\2\GitProjects\C#\7. credit_calculator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Desktop\2\GitProjects\C#\7. credit_calculator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Desktop\2\GitProjects\C#\7. credit_calculator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Desktop\2\GitProjects\C#\7. credit_calculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Desktop\2\GitProjects\C#\7. credit_calculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Desktop\2\GitProjects\C#\7. credit_calculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Desktop\2\GitProjects\C#\7. credit_calculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Desktop\2\GitProjects\C#\7. credit_calculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Desktop\2\GitProjects\C#\7. credit_calculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
