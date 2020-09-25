@@ -14,3 +14,5 @@ also paid. Thus, at the beginning of the loan repayment period,
 the payment amounts are maximum, and at the end of the term - minimum.
 
 ![alt text](https://raw.githubusercontent.com/ramapitecusment/credit_calculator_c_sharp/master/images/1.PNG)
+
+![alt text](https://raw.githubusercontent.com/ramapitecusment/credit_calculator_c_sharp/master/images/2.PNG)
